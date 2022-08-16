@@ -1,0 +1,21 @@
+{
+  "name": "pigment-color",
+  "bin":"./index.js",
+  "version": "1.0.0",
+  "description": "Terminal color display",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Terminal",
+    "Color",
+    "Display"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
