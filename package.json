@@ -13,6 +13,8 @@
     "Color",
     "Display"
   ],
+  "repository": "github:Abubakar-Muhammad/pigment-color",
+  "homepage": "https://github.com/Abubakar-Muhammad/pigment-color#readme",
   "author": "",
   "license": "ISC",
   "dependencies": {
